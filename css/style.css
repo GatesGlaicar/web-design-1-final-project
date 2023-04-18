@@ -4,3 +4,10 @@ footer {
     text-align: center;
     font-family: 'Josefin Sans', sans-serif;
 }
+
+header {
+    color: white;
+    background-color: #000;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
